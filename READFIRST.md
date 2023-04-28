@@ -5,7 +5,7 @@ The repository includes information about data types, keywords, functions, objec
 Includes modules 7 modules : Time, Asyncio, OS, Shutil, PyPDF2, Win32 and Requests!
 Learn through Classes, objects and inheritance thouroughly!
 
-# What's More?
+# Exercises
 Once you go on completing chapters, you will have to attempt the exercises given below after completing that chapter.
 
 1. Exercise on Chapter 12 : In this exercise, you need to create a program where you need to find whether the given input number by user is a postivie, negative or zero number
